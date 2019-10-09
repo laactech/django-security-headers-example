@@ -65,9 +65,6 @@ node_modules/
 # virtual environments
 .env
 
-# User-uploaded media
-campvana/media/
-
 .terraform
 terraform.tfstate*
 
@@ -94,5 +91,4 @@ celerybeat-schedule.bak
 celerybeat-schedule.dir
 celerybeat.pid
 celerybeat-schedule
-/campvana.egg-info/
 /.python-version
