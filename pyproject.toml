@@ -10,7 +10,7 @@ python = "^3.7"
 django-environ = "^0.4.5"
 django-csp = "^3.5"
 django-feature-policy = "^3.0.0"
-django = "^2.2.6"
+django = "^2.2.24"
 
 [tool.poetry.dev-dependencies]
 
